@@ -1,0 +1,1 @@
+This is a document that summarizes my learnings as a full-stack engineer at Dynamic.xyz for the summer of 2022. I truly appreciate Yoni Goldberg, Justin Léger and Itai Turbahn for giving me this opportunity to dive into the web3 space and grow with the team.
